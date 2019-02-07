@@ -22,8 +22,8 @@ module.exports = {
 
 ### Other Configurations
 
-- Base: [@wkovacs64/eslint-config](https://github.com/eslint-config)
+- Base: [@wkovacs64/eslint-config](https://github.com/wKovacs64/eslint-config)
 - React:
-  [@wkovacs64/eslint-config-react](https://github.com/wkovacs64/eslint-config-react)
+  [@wkovacs64/eslint-config-react](https://github.com/wKovacs64/eslint-config-react)
 - TypeScript:
-  [@wkovacs64/eslint-config-ts](https://github.com/wkovacs64/eslint-config-ts)
+  [@wkovacs64/eslint-config-ts](https://github.com/wKovacs64/eslint-config-ts)
