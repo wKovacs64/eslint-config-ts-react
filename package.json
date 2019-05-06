@@ -43,8 +43,8 @@
     "@wkovacs64/eslint-config-ts": "^2.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "7.5.2",
-    "@commitlint/config-conventional": "7.5.0",
+    "@commitlint/cli": "7.6.0",
+    "@commitlint/config-conventional": "7.6.0",
     "@typescript-eslint/eslint-plugin": "1.7.0",
     "commitizen": "3.1.1",
     "cz-conventional-changelog": "2.1.0",
