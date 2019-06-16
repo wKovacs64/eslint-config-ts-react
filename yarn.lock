@@ -419,7 +419,7 @@
     eslint-config-airbnb "^17.1.0"
     eslint-config-prettier "^5.0.0"
 
-"@wkovacs64/eslint-config-ts@^3.0.0":
+"@wkovacs64/eslint-config-ts@^3.0.1":
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/@wkovacs64/eslint-config-ts/-/eslint-config-ts-3.0.1.tgz#1d17ff75ecb67703d84ea7ab7e0dfa63d458e83d"
   integrity sha512-W5IxCBjELZDn5eW9nCIjZWzoJg/NIV016KWonLYQafCKCJkAo2iPvhYndYUU+NJodU0Xde1Jzuzu2O3JsrXV1A==
