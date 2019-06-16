@@ -39,7 +39,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@wkovacs64/eslint-config-react": "^2.1.0",
+    "@wkovacs64/eslint-config-react": "^2.2.1",
     "@wkovacs64/eslint-config-ts": "^2.0.0"
   },
   "devDependencies": {
